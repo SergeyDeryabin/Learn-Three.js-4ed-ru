@@ -10,8 +10,8 @@ Learn Three.js, Fourth edition, published by Packt
 Это репозиторий кода для книги "Изучите Three.js"(Learn Three.js) [Learn Three.js, Fourth edition](https://www.packtpub.com/product/learn-three.js-fourth-edition/9781803233871), опубликован Packt. |
 This is the code repository for [Learn Three.js, Fourth edition](https://www.packtpub.com/product/learn-three.js-fourth-edition/9781803233871), published by Packt.
 
-**Программируйте 3D-анимацию и визуализацию для Интернета с помощью JavaScript и WebGL**  |
-**Program 3D animations and visualizations for the web with JavaScript and WebGL**
+**Программируйте 3D-анимацию и визуализацию для Интернета с помощью JavaScript и WebGL |
+  Program 3D animations and visualizations for the web with JavaScript and WebGL**
 
 ## О чем эта книга?  | What is this book about?
 
@@ -78,10 +78,10 @@ With the following software and hardware list you can run all code files present
 ### Сопутствующие товары <Другие книги, которые могут вам понравиться> | Related products <Other books you may enjoy>
 
 * Идем дальше с Babylon.js [[Packt]](https://www.packtpub.com/product/going-the-distance-with-babylonjs/9781801076586) [[Amazon]](https://www.amazon.com/Going-Distance-Babylon-js-maintainable-browser-based-ebook/dp/B09ZBB2Q1H) |
-* Going the Distance with Babylon.js  [[Packt]](https://www.packtpub.com/product/going-the-distance-with-babylonjs/9781801076586) [[Amazon]](https://www.amazon.com/Going-Distance-Babylon-js-maintainable-browser-based-ebook/dp/B09ZBB2Q1H)
+  Going the Distance with Babylon.js  [[Packt]](https://www.packtpub.com/product/going-the-distance-with-babylonjs/9781801076586) [[Amazon]](https://www.amazon.com/Going-Distance-Babylon-js-maintainable-browser-based-ebook/dp/B09ZBB2Q1H)
 
 * 3D-графика в реальном времени с помощью WebGL 2 [[Packt]] (https://www.packtpub.com/product/real-time-3d-graphics-with-webgl-2- Second-edition/9781788629690) [[Amazon]](https://www.amazon.com/Real-Time-Graphics-WebGL-interactive-applications/dp/1788629698) |
-* Real-Time 3D Graphics with WebGL 2 [[Packt]](https://www.packtpub.com/product/real-time-3d-graphics-with-webgl-2-second-edition/9781788629690) [[Amazon]](https://www.amazon.com/Real-Time-Graphics-WebGL-interactive-applications/dp/1788629698)
+  Real-Time 3D Graphics with WebGL 2 [[Packt]](https://www.packtpub.com/product/real-time-3d-graphics-with-webgl-2-second-edition/9781788629690) [[Amazon]](https://www.amazon.com/Real-Time-Graphics-WebGL-interactive-applications/dp/1788629698)
 
 
 ## Познакомьтесь с автором |Get to Know the Author
